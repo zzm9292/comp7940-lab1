@@ -1,5 +1,3 @@
-# Find the all factors of x using a loop and the operator % 
-# % means find remainder, for example 10 % 2 = 0; 10% 3 = 1
-x = 52633
-for i in range(x+1):
+# Write a function that prints all factors of the given parameter x
+def print_factor(x):
   # your code here
